@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vkimow
-- 👀 I’m interested in gamedev (game engines especially)
+- 👀 I’m interested in gamedev
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me egorvkimow@gmail.com
