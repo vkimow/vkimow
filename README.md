@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Egor @vkimow Akimov
+- 👋 Hi, I’m Egor Akimov
 - 👀 I’m interested in gamedev
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on game projects
